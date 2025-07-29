@@ -1,0 +1,18 @@
+MicroDSP KEYWORDS
+DSP
+Digital Signal Processing
+Signal
+Filtering
+FFT
+Fourier
+Transform
+Calculus
+Statistics
+Outliers
+Arduino
+AVR
+ESP8266
+ESP32
+ARM
+STM32
+Teensy
